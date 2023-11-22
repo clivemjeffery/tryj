@@ -1,1 +1,1 @@
-import './bootstrap';
+// import './bootstrap'; // removed axios until needed
