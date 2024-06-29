@@ -18,6 +18,7 @@
             <p class="title">The App</p>
             <p class="subtitle">Here it is!</p>
             <p>We hope you find it useful</p>
+            <p>It was just updated.</p>
         </section>
     </body>
 </html>
